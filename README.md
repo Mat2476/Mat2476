@@ -31,5 +31,5 @@
 ### ✉️ ¡Contáctame!
 Si buscas a un desarrollador web que recién inicia en el mundo IT y quieres adaptarlo a las tecnologías de tus proyectos, estoy disponible Full-Time. ¡Contáctame!
 
-* 💼 **LinkedIn:** [Mi Perfil Profesional](https://linkedin.com)
+* 💼 **LinkedIn:** [Mi Perfil Profesional]([https://linkedin.com](https://www.linkedin.com/in/matias-mamani-dev/)
 * 📧 **Correo Electrónico:** `matiasmamani0404@gmail.com` *(Copia la dirección para escribirme desde tu proveedor)*
