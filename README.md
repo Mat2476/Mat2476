@@ -24,7 +24,7 @@
 ---
 
 ### ✉️ ¡Contáctame!
-¡Estoy disponible Full-Time! Si buscas sumar a un desarrollador Junior a tu equipo, hablemos:
+Si buscas a un desarrollador web que recién inicia en el mundo IT y quieres adaptarlo a las tecnologías de tus proyectos, estoy disponible Full-Time. ¡Contáctame!
 
 📫 **[Enviar un Correo Electrónico](mailto:matiasmamani0404@gmail.com)** *(Abre directamente tu app de correo)*  
 💼 **[Mi Perfil de LinkedIn](https://linkedin.com)**
