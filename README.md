@@ -1,6 +1,6 @@
 # Matias Mamani
 
-Hola! Mi nombre es Matias Mamani y soy Desarrollador Web especializado en el Frontend. Actualmente me encuentro cursando la Tecnicatura en Desarrollo de Software en el IFTS N°18 (CABA, Argentina).
+Hola! Mi nombre es Matias Mamani, tengo 20 años y soy Desarrollador Web especializado en el Frontend. Actualmente me encuentro cursando la Tecnicatura en Desarrollo de Software en el IFTS N°18 (CABA, Argentina).
 
 ## 💻 Stack Tecnológico
 🔹 **Lenguajes y Frameworks:**  
