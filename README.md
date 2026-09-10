@@ -11,20 +11,20 @@
 
 ### 💻 Stack Tecnológico
 
-* **🚀 Lenguajes y Frameworks:**  
-  <img src="https://simpleicons.org" width="20" height="20" alt="JS" /> `JavaScript` &nbsp;&nbsp; 
-  <img src="https://simpleicons.org" width="20" height="20" alt="React" /> `React.js` &nbsp;&nbsp; 
-  <img src="https://simpleicons.org" width="20" height="20" alt="HTML5" /> `HTML5` &nbsp;&nbsp; 
-  <img src="https://simpleicons.org" width="20" height="20" alt="CSS3" /> `CSS3`
+* **🚀 Lenguajes y Frameworks:** 
+  * `JavaScript` 
+  * `React.js` 
+  * `HTML5` 
+  * `CSS3`
 
-* **🗄️ Bases de Datos:**  
-  <img src="https://simpleicons.org" width="20" height="20" alt="PostgreSQL" /> `PostgreSQL` &nbsp;&nbsp; 
-  <img src="https://simpleicons.org" width="20" height="20" alt="MySQL" /> `MySQL`
+* **🗄️ Bases de Datos:** 
+  * `PostgreSQL` 
+  * `MySQL`
 
 ---
 
 ### ✉️ ¡Contáctame!
-¡Estoy disponible Full-Time! Si deseas sumarme a tu equipo o tienes una propuesta, puedes escribirme directamente por aquí:
+Si buscas a un desarrollador web que recién inicia en el mundo IT y quieres adaptarlo a las tecnologías de tus proyectos, estoy disponible Full-Time. ¡Contáctame!
 
 * 💼 **LinkedIn:** [Mi Perfil Profesional](https://linkedin.com)
 * 🟢 **WhatsApp Directo:** [¡Hablemos por chat!](https://wa.me) *(Abre una conversación instantánea)*
