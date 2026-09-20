@@ -1,6 +1,6 @@
 # ¡Hola, soy Matias Mamani! 👋
 
-> **Frontend Developer 💻 | Estudiante de Software 🎓 | Apasionado por la Tecnología ⚡**
+ **Frontend Developer 💻 | Estudiante de Software 🎓 | Apasionado por la Tecnología ⚡**
 
 ---
 
